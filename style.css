@@ -1,0 +1,16 @@
+body {
+	font-family:Arial, sans-serif;
+}
+p {
+	color: black;
+}
+main {
+	max-width: 1200px;
+	margin: auto;
+}
+a :hover {
+	color: #66A574 ; 
+	background-color: #B03526 ; 
+	width : 120px;
+	
+} 
